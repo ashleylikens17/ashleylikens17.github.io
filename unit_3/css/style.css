@@ -1,12 +1,33 @@
-body {
+body,html {
   	
-  	background-image: url(https://media.licdn.com/dms/image/C5622AQEDDYgIiJgkUw/feedshare-shrink_2048_1536/0?e=1580947200&v=beta&t=oW4IWQI0bZPq6H36owLGjCo0jfXNE6z3KPv2NkJBJuE);
-	background-size: cover;
 	color: #FFFFFF;
 	text-align: center;
 	font-family: sans-serif;
 
 	}
+
+.hero-image {
+
+	background-image: linear-gradient (rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url ("https://media.licdn.com/dms/image/C5622AQEDDYgIiJgkUw/feedshare-shrink_2048_1536/0?e=1580947200&v=beta&t=oW4IWQI0bZPq6H36owLGjCo0jfXNE6z3KPv2NkJBJuE");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+
+	}
+
+.hero-text {
+
+	text-align: center;
+	position: absolute;
+	top: 100%;
+	left: 100%;
+	transform: translate(-100%, -100%);
+	color: white;
+
+}
+
 
 h1 {
 
