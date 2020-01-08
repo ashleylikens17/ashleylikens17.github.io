@@ -12,17 +12,11 @@ body,html {
 
 	width: 100vw;
 	height: 100vh;
-
-	}
-
-.hero-text {
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
 	color: white;
-
 }
 
 .hero-button {
@@ -30,7 +24,6 @@ body,html {
 	display: block;
 	width: 200px;
 	border: 3px, #000000; 
-
 }
 
 
