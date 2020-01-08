@@ -37,7 +37,7 @@ h1 {
 }
 
 #slogan {
-	font-size: 40x;
+	font-size: 40px;
 	font-family: sans-serif;
 	text-align: center;
 }
@@ -45,11 +45,11 @@ h1 {
 button{
 
 	display: inline-block;
-    width: 200px;
+    width: 100px;
     
     /* Padding and margins */
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 15px;
     margin: 5px;
     
     /* Text styles */
@@ -59,17 +59,10 @@ button{
     
     /* Border styles */
     border: 3px solid white;
-    border-radius: 20px;
+    border-radius: 215px;
     
     /* Background styles */
     background-color: rgba(255, 102, 0, 0.8);
-
-}
-
-ul{
-
-	style='text-indent: -7px;'>
-	text-align: center;
 
 }
 
