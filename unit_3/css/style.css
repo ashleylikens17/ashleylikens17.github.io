@@ -46,7 +46,7 @@ h1 {
 
 button{
 
-	display: in-block;
+	display: inline-block;
     width: 200px;
     
     /* Padding and margins */
