@@ -15,7 +15,7 @@ body,html {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	position: absolute;
+	position: relative;
 }
 
 .hero-text {
@@ -32,12 +32,10 @@ h1 {
 
 	font-weight: bold;
 	font-size: 15px;
-	text-align: center;
 }
 
 #slogan {
-	font-size: 40px;
+	font-size: 20x;
 	font-weight: bold;
 	font-family: sans-serif;
-	text-align: center;
 }
